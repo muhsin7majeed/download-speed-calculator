@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/download-speed-calculator/static/css/main.5b7a8159.chunk.css",
+    "main.js": "/download-speed-calculator/static/js/main.dd53d55e.chunk.js",
+    "main.js.map": "/download-speed-calculator/static/js/main.dd53d55e.chunk.js.map",
+    "runtime~main.js": "/download-speed-calculator/static/js/runtime~main.2d5f15c9.js",
+    "runtime~main.js.map": "/download-speed-calculator/static/js/runtime~main.2d5f15c9.js.map",
+    "static/js/2.d16ba94f.chunk.js": "/download-speed-calculator/static/js/2.d16ba94f.chunk.js",
+    "static/js/2.d16ba94f.chunk.js.map": "/download-speed-calculator/static/js/2.d16ba94f.chunk.js.map",
+    "index.html": "/download-speed-calculator/index.html",
+    "precache-manifest.4e7a18dd68efef3370e87effcdcc3e01.js": "/download-speed-calculator/precache-manifest.4e7a18dd68efef3370e87effcdcc3e01.js",
+    "service-worker.js": "/download-speed-calculator/service-worker.js",
+    "static/css/main.5b7a8159.chunk.css.map": "/download-speed-calculator/static/css/main.5b7a8159.chunk.css.map"
+  }
+}
